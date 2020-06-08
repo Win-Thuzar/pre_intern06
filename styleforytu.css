@@ -1,0 +1,218 @@
+.header{
+    background-color:RGB(134,142,150);
+    height:60px;
+    width: 100%;
+}
+.logo{
+    clear: both;
+    height:120px;
+    padding-left:150px;
+}
+.menu{
+    background-color:rgb(52,58,64);
+    height: 50px;
+}
+.body{
+    height: 400px;
+    background-image: url("images/ytubg.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 400px;
+}
+.box{
+    margin-left:100px;
+    margin-right: 50px;
+    height:300px;
+    padding:30px;
+}
+.rector{
+    height: 400px;
+    margin-left:100px;
+}
+.event{
+    margin-left:100px;
+    margin-right: 50px;
+    height: 350px;
+}
+.welcome{
+    margin-left:100px;
+    margin-right: 50px;
+    height:250px;
+    padding:20px;
+}
+.imagebox{
+    background-image: url("images/ytubg.jpg");
+    background-size: 1200px 300px;
+    height:150px;
+    padding:50px;
+}
+.update{
+    height:800px;
+    margin-left:100px;
+    margin-right: 50px;
+}
+.about{
+    background-color:rgb(52,58,64);
+    height:360px;
+    width: 100%;
+    color:white;
+}
+.redline{
+    background-color: red;
+    height:5px;
+}
+.headmenu{
+    float: right;
+}
+.headmenu ul li{
+    list-style: none;
+    float:left;
+    color:white;
+    padding:5px;
+    
+}
+.menu ul li{
+    list-style: none;
+    float:left;
+    color:white;
+    padding:10px;
+    
+}
+.objectives{
+    position:absolute;
+    height:250px;
+    padding:20px;
+    border-width: 1px;
+    border-style: solid;
+    width: 300px;
+    float: left;
+}
+.mission{
+    position:absolute;
+    border-width: 1px;
+    height: 250PX;
+    width: 300PX;
+    padding:20px;
+    border-style: solid;
+    float: left;
+    margin-left:400px;
+}
+.programs {
+    position: absolute;
+    border-width: 1px;
+    height: 250PX;
+    padding:20px;
+    width:300px;
+    margin-left:770px;
+    border-style: solid;
+    float: left;
+}
+.rectorimg{
+    position: absolute;
+    float:left;
+    width:200px;
+    padding: 20px;
+}
+.rectormessage{
+    margin-left:520px;
+    margin-right: 50px;
+    padding:55px;
+    position:absolute;
+}
+p{
+    font-size: 15px;
+    color:black;
+    text-align:justify;
+}
+h2{
+    font-size:30px;
+    color:orange;
+}
+button{
+    background-color: orange;
+    color:white;
+    float:right;
+}
+.text{
+    position:absolute;
+    margin-left:100px;
+    width: 300px;
+    margin-top:60px;
+
+}
+.link{
+    position:absolute;
+    margin-left:450px;
+    margin-top:60px;
+    
+}
+.posts{
+    position: absolute;
+    margin-left:800px;
+    margin-top:60px;
+
+}
+.slideshowbox{
+  position:absolute;
+  background-color: black;
+  opacity: 50%;
+  width: 800px;
+  height: 300px;
+  margin-left:300px;
+  margin-top:50px;
+}
+.department{
+    background-color: black;
+    opacity: 50%;
+    margin-left: 100px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    float: left;
+    height:150px;
+    width:350px;
+    border-radius: 5px;
+}
+.lecture{
+    background-color: black;
+    opacity: 50%;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    float: left;
+    height:150px;
+    width:350px;
+    margin-left:30px;
+ }
+.student{
+    background-color: black;
+    opacity: 50%;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    float: left;
+    height:150px;
+    width:350px;
+    margin-left: 30px;
+}
+
+figure {
+    float: left;
+    width: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+figcaption {
+    color:orange;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+    caption-side: bottom;
+}
+
